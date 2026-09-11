@@ -1,0 +1,6 @@
+{
+  "name": "Zaify's Restaurant",
+  "description": "Modern, premium restaurant website for Zaify's in Satellite Town, Rawalpindi. Authentic taste made with passion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
